@@ -10,8 +10,12 @@ Foi projetado para ajudar todas as pessoas nas suas tarefas diarias, onde todos 
 
 ### Blibiotecas utilizadas:
 usamos tres extensoes no projeto, onde para o alarme foi a de nome: Taifun Alarm;
-Para a lista de tarefas, usamos a .... e a ....., onde as duas auxiliaram na cosntrução de tela e com a função de cadastrar tarefas com a marcação de checkbox;
+Para a lista de tarefas, usamos a com.yusufciha.Dynamic.Components e a  com.JdFloating.View, onde as duas auxiliaram na cosntrução de tela e com a função de cadastrar tarefas com a marcação de checkbox;
 
-### informações projetos:
+### informações para instalar o projetos:
+Nessecita-se baixar o apk e aceitar as permicoes nessecarias, e logo de inicio é pedido para criar um login, se nao tiver criado aparece a mensagem de login não criado.
+Após o login o usuario é redirecionado para a página do minuto heróico onde é mostrado o significado do minuto herócio e seus beneficions.Com um side menu Bar, foi feito a mudança de telas, de forma rapida e facil, onde basta somente arrastar o dedo da esquerda para direta no canto a tela.Para cradastra uma tarefas basta digitar um texto e presionar o botao com sinal de mais(+), e para mar ela como completa basta deixar pressionado e ira apresentar a mensagem completa, e para deletar é só selecionar uma ou mais tarfeas que deseja-se deletar apertando os campos que de checkboxs, e apertar o botao de deletar.
 
+
+ 
 
